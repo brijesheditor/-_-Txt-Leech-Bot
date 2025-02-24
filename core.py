@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Oye_brijesh
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@bk_classes_28?si=hpJOu1O3DPqF3dTT
+# Ask Doubt on telegram @Oye_brijesh
 
 import os
 import time
@@ -171,7 +171,7 @@ async def download_video(url,cmd, name):
             return f"{name}.webm"
         name = name.split(".")[0]
         if os.path.isfile(f"{name}.mkv"):
-            return f"{name}.mkv"
+            return f"{𝐁𝐑𝐈𝐉𝐄𝐒𝐇}.mkv"
         elif os.path.isfile(f"{name}.mp4"):
             return f"{name}.mp4"
         elif os.path.isfile(f"{name}.mp4.webm"):
@@ -198,7 +198,7 @@ async def send_vid(bot: Client, m: Message,cc,filename,thumb,name,prog):
     
     subprocess.run(f'ffmpeg -i "{filename}" -ss 00:00:12 -vframes 1 "{filename}.jpg"', shell=True)
     await prog.delete (True)
-    reply = await m.reply_text(f"**Uploading ...** - `{name}`")
+    reply = await m.reply_text(f"**Uploading ...** - `{𝐁𝐑𝐈𝐉𝐄𝐒𝐇}`")
     try:
         if thumb == "no":
             thumbnail = f"{filename}.jpg"
