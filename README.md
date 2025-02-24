@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" " alt="BK-TXT-LEECH-BOT Logo">
+  <img src=" " alt="https://images.app.goo.gl/wgQ4pbCgCbahRGET9 Logo">
 </p>
 <h1 align="center">
  BK TXT LEECH BOT
