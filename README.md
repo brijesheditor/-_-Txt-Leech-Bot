@@ -1,3 +1,12 @@
+Edit Variable in **vars.py**
+
+**BOT_TOKEN** - Get Bot Token From @BotFather
+
+**API_ID**- From my.telegram.org 
+
+**API_HASH**- From my.telegram.org
+
+
 <p align="center">
   <img src=" " alt="https://images.app.goo.gl/wgQ4pbCgCbahRGET9 Logo">
 </p>
