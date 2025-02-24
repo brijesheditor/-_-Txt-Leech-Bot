@@ -11,11 +11,11 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+💝 Credit Goes To [ 𝐁𝐑𝐈𝐉𝐄𝐒𝐇 ](https://t.me/+qutXY5xbN0I4OWY1) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [𝐁𝐑𝐈𝐉𝐄𝐒𝐇](https://t.me/+qutXY5xbN0I4OWY1)
 
 </b>
 </details>
@@ -24,16 +24,16 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech BK]( )
-- Telegram Channel : [BK Botz]( )
-- Contact Link : [King BK]( )
-- Instagram Id Link : [Tech BK]( )
+- YouTube Channel : [𝐁𝐑𝐈𝐉𝐄𝐒𝐇]( https://youtube.com/@bk_classes_28?si=LppV-Qb811VQh2uU)
+- Telegram Channel : [𝐁𝐑𝐈𝐉𝐄𝐒𝐇]( https://t.me/+qutXY5xbN0I4OWY1)
+- Contact Link : [𝐁𝐑𝐈𝐉𝐄𝐒𝐇]( t.me/Oye_brijesh)
+- Instagram Id Link : [𝐁𝐑𝐈𝐉𝐄𝐒𝐇]( )
 
 </b>
 </details>
 
 
-### Copyright ©️ [Tech BK](https://youtube.com/@Tech_BK)
+### Copyright ©️ [𝐁𝐑𝐈𝐉𝐄𝐒𝐇]( https://youtube.com/@bk_classes_28?si=LppV-Qb811VQh2uU )
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
